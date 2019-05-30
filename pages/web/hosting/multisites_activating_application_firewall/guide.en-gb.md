@@ -29,23 +29,23 @@ With the Core Rule Set (CRS), your ModSecurity is preconfigured in an optimal wa
 ## 
 Log on to your [control panel](https://www.ovh.com/manager/web) with your NIC handle and password.
 
-![](images/img_3005.jpg){.thumbnail}
+![](images/1.png){.thumbnail}
 Select your domain name in the "Hostings" section
 
-![](images/img_3006.jpg){.thumbnail}
+![](images/2.png){.thumbnail}
 Click on the "Website" tab.
 
-![](images/img_3007.jpg){.thumbnail}
+![](images/3a.png){.thumbnail}
 The firewall is Disabled by default. Click on the black pen to access your hosting package options.
 
-![](images/img_3008.jpg){.thumbnail}
+![](images/3.png){.thumbnail}
 Check "Activate firewall > next.
 
-![](images/img_3010.jpg){.thumbnail}
+![](images/4.png){.thumbnail}
 You will see a summary of changes, and the firewall status should have changed to enabled/activated. Click confirm.
 
-![](images/img_3011.jpg){.thumbnail}
+![](images/5.png){.thumbnail}
 The firewall is now enabled on your hosting package.
 
-![](images/img_3012.jpg){.thumbnail}
+![](images/6.png){.thumbnail}
 
