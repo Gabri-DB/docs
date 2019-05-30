@@ -1,6 +1,6 @@
-Web hosting: Activating an application firewall---
-title: 'Web hosting: Activating an application firewall'
-excerpt: 'Web hosting: Activating an application firewall'
+---
+title: 'Web hosting: Activating the application firewall (ModSecurity)'
+excerpt: 'Web hosting: Activating the application firewall (ModSecurity)'
 id: '1937'
 slug: web_hosting_activating_an_application_firewall
 legacy_guide_number: g1937
@@ -37,13 +37,14 @@ Select your domain name in the "Hostings" section
 
 Click on the "Multisite" tab.
 
+##
 ![](images/3a.png){.thumbnail}
 
 The firewall is Disabled by default. Click on the gear icon to access your hosting package options.
 
 ![](images/3.png){.thumbnail}
 
-Check "Enable firewall" > next.
+Check "Enable firewall" > Next.
 
 ![](images/4.png){.thumbnail}
 
