@@ -1,4 +1,4 @@
----
+Web hosting: Activating an application firewall---
 title: 'Web hosting: Activating an application firewall'
 excerpt: 'Web hosting: Activating an application firewall'
 id: '1937'
@@ -30,21 +30,27 @@ With the Core Rule Set (CRS), your ModSecurity is preconfigured in an optimal wa
 Log on to your [control panel](https://www.ovh.com/manager/web) with your NIC handle and password.
 
 ![](images/1.png){.thumbnail}
+
 Select your domain name in the "Hostings" section
 
 ![](images/2.png){.thumbnail}
-Click on the "Website" tab.
+
+Click on the "Multisite" tab.
 
 ![](images/3a.png){.thumbnail}
-The firewall is Disabled by default. Click on the black pen to access your hosting package options.
+
+The firewall is Disabled by default. Click on the gear icon to access your hosting package options.
 
 ![](images/3.png){.thumbnail}
-Check "Activate firewall > next.
+
+Check "Enable firewall" > next.
 
 ![](images/4.png){.thumbnail}
+
 You will see a summary of changes, and the firewall status should have changed to enabled/activated. Click confirm.
 
 ![](images/5.png){.thumbnail}
+
 The firewall is now enabled on your hosting package.
 
 ![](images/6.png){.thumbnail}
