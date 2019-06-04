@@ -1,24 +1,36 @@
 ---
-title: Geolocation on web hosting packages
-excerpt: ''
+title: Activate geolocation on web hosting packages
+excerpt: Find out how to activate geolocation in your websites
 slug: geolocation_on_web_hosting_packages
 legacy_guide_number: g1880
 ---
 
+**Last updated 4th June 2019**
 
-## 
-You can set up geolocation for your website from your [control panel](https://www.ovh.com/manager/web/login/).
+## Objective
+
+This guide will take you through the steps you need to take to activate geolocation for your website from your [OVH control panel](https://www.ovh.com/manager/).
+
+## Instructions
 
 Once you are logged on, click on the name of your main website under the Hostings section.
 
-![](images/img_2792.jpg){.thumbnail}
-In the menu, select the Websites tab.
-Then click on the pen to the right of the website that you wish to geolocate.
+![](images/1.png){.thumbnail}
 
-![](images/img_2793.jpg){.thumbnail}
-You can then choose the IP for the country in question. 
+In the menu, select the Multisite tab.
+Then click on the gear icon of the site that you wish to geolocate.
+
+![](images/2.png){.thumbnail}
+
+First, check "Country IP" box, then you will be able to choose the IP for the country in question in the drop-down list.
 OVH can offer 12 different country IPs
 
-![](images/img_2794.jpg){.thumbnail}
-The change will take 24 hours to take effect
+![](images/3.png){.thumbnail}
+
+In step 2 of the process, you will see a summary of the actions taken. To finish, press "Confirm".
+
+This change will take up to 24 hours to take effect. 
+
+![](images/4.png){.thumbnail}
+
 
