@@ -15,7 +15,7 @@ This guide will take you through the steps you need to take to activate geolocat
 
 Once you are logged on, click on the name of your main website under the Hostings section.
 
-![](images/1.png){.thumbnail}
+![](images/1fix.png){.thumbnail}
 
 In the menu, select the Multisite tab.
 Then click on the gear icon of the site that you wish to geolocate.
